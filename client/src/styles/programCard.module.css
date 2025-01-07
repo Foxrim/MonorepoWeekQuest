@@ -1,0 +1,23 @@
+.programCard {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(70, 70, 70);
+  width: 16rem;
+
+  figure {
+    width: 100%;
+    img {
+      width: 100%;
+    }
+  }
+
+  h3 {
+    margin: 0.5rem 0;
+  }
+
+  p {
+    margin: 0 0.5rem 0.5rem 0.5rem;
+  }
+}

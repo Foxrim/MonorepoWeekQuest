@@ -1,0 +1,20 @@
+.mainCategory {
+  background-color: wheat;
+  padding: 2rem;
+  width: 100%;
+  color: blue;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 1rem;
+
+  li {
+    padding: 0.5rem;
+    background-color: rgb(192, 171, 131);
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
+    color: rgb(90, 78, 56);
+    font-weight: bolder;
+    border: solid 1px;
+  }
+}

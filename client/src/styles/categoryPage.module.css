@@ -1,0 +1,11 @@
+.categoryPage {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  list-style-type: none;
+
+  ul {
+    margin: 2rem;
+  }
+}
